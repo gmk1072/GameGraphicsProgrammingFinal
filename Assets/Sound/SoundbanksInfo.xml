@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+	<RootPaths>
+		<ProjectRoot>E:\User Docs\Documents\WwiseProjects\GGP\</ProjectRoot>
+		<SourceFilesRoot>E:\User Docs\Documents\WwiseProjects\GGP\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\User Docs\Documents\RIT\2016-2017\Spring\Game Graphics\Game-Graphics-Programming-Project\Assets\Sound\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\User Docs\Documents\WwiseProjects\GGP\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3978230001" Name="Explode_Enemy" ObjectPath="\Events\Default Work Unit\Explode_Enemy"/>
+				<Event Id="638744943" Name="Fire_Laser_Player" ObjectPath="\Events\Default Work Unit\Fire_Laser_Player"/>
+				<Event Id="2278749975" Name="Global_Ambiance" ObjectPath="\Events\Default Work Unit\Global_Ambiance"/>
+				<Event Id="3166119473" Name="Laser_Hit_Enemy" ObjectPath="\Events\Default Work Unit\Laser_Hit_Enemy"/>
+				<Event Id="1439539819" Name="Move_Enemy" ObjectPath="\Events\Default Work Unit\Move_Enemy"/>
+				<Event Id="1955298694" Name="Stop_Move_Enemy" ObjectPath="\Events\Default Work Unit\Stop_Move_Enemy"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="206684750" Language="SFX">
+					<ShortName>laser.wav</ShortName>
+					<Path>SFX\laser_9E69E797.wem</Path>
+				</File>
+				<File Id="647814471" Language="SFX">
+					<ShortName>hit.wav</ShortName>
+					<Path>SFX\hit_9E69E797.wem</Path>
+				</File>
+				<File Id="869583670" Language="SFX">
+					<ShortName>spaceAmbiance.wav</ShortName>
+					<Path>SFX\spaceAmbiance_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="896268406" Language="SFX">
+					<ShortName>MovementEnemy.wav</ShortName>
+					<Path>SFX\MovementEnemy_ED9F203E.wem</Path>
+				</File>
+				<File Id="971135744" Language="SFX">
+					<ShortName>ExplosionVidya.wav</ShortName>
+					<Path>SFX\ExplosionVidya_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

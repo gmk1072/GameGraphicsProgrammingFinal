@@ -1,0 +1,21 @@
+Event	ID	Name			Wwise Object Path	Notes
+	638744943	Fire_Laser_Player			\Default Work Unit\Fire_Laser_Player	
+	1439539819	Move_Enemy			\Default Work Unit\Move_Enemy	
+	1955298694	Stop_Move_Enemy			\Default Work Unit\Stop_Move_Enemy	
+	2278749975	Global_Ambiance			\Default Work Unit\Global_Ambiance	
+	3166119473	Laser_Hit_Enemy			\Default Work Unit\Laser_Hit_Enemy	
+	3978230001	Explode_Enemy			\Default Work Unit\Explode_Enemy	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1656210572	Enemy_Scale			\Default Work Unit\Enemy_Scale	
+
+Effect plug-ins	ID	Name	Type				Notes
+	702543456	Tunnel1	Wwise Matrix Reverb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	206684750	laser	E:\User Docs\Documents\WwiseProjects\GGP\.cache\Windows\SFX\laser_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\laser		4352
+	647814471	hit	E:\User Docs\Documents\WwiseProjects\GGP\.cache\Windows\SFX\hit_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\hit		62764
+	869583670	spaceAmbiance	E:\User Docs\Documents\WwiseProjects\GGP\.cache\Windows\SFX\spaceAmbiance_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\spaceAmbiance		1609028
+	896268406	MovementEnemy	E:\User Docs\Documents\WwiseProjects\GGP\.cache\Windows\SFX\MovementEnemy_ED9F203E.wem		\Actor-Mixer Hierarchy\Default Work Unit\MovementEnemy		139068
+	971135744	ExplosionVidya	E:\User Docs\Documents\WwiseProjects\GGP\.cache\Windows\SFX\ExplosionVidya_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\ExplosionVidya		180196
+
